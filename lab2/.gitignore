@@ -1,0 +1,13 @@
+build/
+out/
+.vs/
+*.exe
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
